@@ -1,0 +1,3 @@
+Amon,Jose,3DSA4,345.0,43.2,12.0,133.4
+Verlade,Martin,1DSA2,45.0,67.0,32.0,48.0
+Dolar,Gabriel,D,2.0,2.0,2.0,2.0
